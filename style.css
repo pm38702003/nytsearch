@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+    background: #003366;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 55px;
+    font-family: helvetica;
+}
+
+#paper-icon {
+    font-size: 40px;
+}
+
+#options-icon {
+    font-size: 22px;
+}
+
+#outter-search-form {
+    margin: 40px auto;
+    padding: 20px;
+    border: solid 1px #ccc;
+    border-radius: 15px;
+}
+
+#form-header {
+    font-size: 35px;
+    border-bottom: solid 1px #ccc;
+    margin-bottom: 10px;
+}
